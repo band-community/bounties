@@ -10,7 +10,7 @@ Feel free to create a new issue and request for community funds! Submit your ide
 ## 📚 Resources
 
 - [Official Developer Doc](https://docs.bandchain.org)
-- [BandChain Spec]()
+- [BandChain Spec](https://github.com/bandprotocol/bandchain/tree/master/spec)
 
 
 ## Bounties
