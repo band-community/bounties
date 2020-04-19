@@ -15,7 +15,9 @@ Feel free to create a new issue and request for community funds! Submit your ide
 
 
 ## Bounties
-- TBD
+- 1000 BAND 👉 [⚔️ Dynamic IBC For Band Protocol In Agoric Smart Contract Platform (Cosmos X Band X Agoric)](https://gitcoin.co/issue/bandprotocol/cross-chain-hackthon/1/4227)
+- 2000 BAND x 2 👉 [📈 Build A DeFi Application With Band Protocol Price Feed Over Cosmos IBC](https://gitcoin.co/issue/bandprotocol/cross-chain-hackthon/2/4228)
+- 2000 BAND x 2 👉 [🌦 Build A Real-World Connected DApp Using Band Protocol’s Built-In Oracle Scripts Over Cosmos IBC](https://gitcoin.co/issue/bandprotocol/cross-chain-hackthon/3/4229)
 
 ## Hackathons
 
