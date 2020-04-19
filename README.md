@@ -1,5 +1,5 @@
 # Band Protocol Bounties
-🎁 A collection of public bounties for [Band Protocol](https://bandprotocol.com)
+🎁 A collection of public bounties and developer info for [Band Protocol](https://bandprotocol.com)
 
 ## 😎 Welcome Hackers!
 
