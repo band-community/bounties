@@ -11,9 +11,11 @@ Feel free to create a new issue and request for community funds! Submit your ide
 
 - [Official Developer Doc](https://docs.bandchain.org)
 - [BandChain Spec](https://github.com/bandprotocol/bandchain/tree/master/spec)
+- [Developer Discord Channel](https://100x.band/discord)
 
 
 ## Bounties
+- TBD
 
 ## Hackathons
 
